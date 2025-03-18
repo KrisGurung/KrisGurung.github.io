@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Xiaorui (Ray) Wang (Pronounced Shiao-Ray Wong)",
+    "label": "Professor of Computer Engineering, IEEE Fellow",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "wang.3596@osu.edu",
+    "phone": "(614)247-1977", "FAX": "(614)292-7596",
+    "url": "https://krisgurung.github.io/",
+    "summary": "I am a professor in the Department of Electrical and Computer Engineering at The Ohio State University. I am also the director of the Power-Aware Computer Systems (PACS) Laboratory.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
